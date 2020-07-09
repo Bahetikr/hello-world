@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css'],
 })
 export class AppComponent {
-  title = 'Welcome to my world - Git commit!';
+  title = 'Welcome to my world - Successfully checked in to the git';
 }
